@@ -1,4 +1,5 @@
-# 📌 Projeto PRISMA
+# <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45de01ca-7df4-404c-adfe-136eb4674412" />
+ Projeto PRISMA
 
 O **Prisma** é um sistema desenvolvido em **Django** com banco de dados **MySQL**, criado para apoiar e otimizar o processo seletivo de candidatos do **Fuzzylab**, além de acompanhar a evolução dos membros previamente aprovados.
 
